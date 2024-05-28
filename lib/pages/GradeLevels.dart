@@ -82,6 +82,8 @@ class GradeLevelsPage extends StatelessWidget {
                           elevatedButton("Kindergarten", 2, context),
                           SizedBox(height: 20),
                           elevatedButton("Grade 1", 3, context),
+                          SizedBox(height: 20),
+                          elevatedButton("Grade 2", 3, context),
                         ],
                       ),
                     ),
