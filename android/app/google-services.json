@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478678510102",
+    "project_id": "mathtarea-c6f74",
+    "storage_bucket": "mathtarea-c6f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478678510102:android:eceaeea8b3e2d1ac3ce337",
+        "android_client_info": {
+          "package_name": "com.example.mathtarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fHASsbdQWL-LwzXd0DfPQHICjZvrJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478678510102:android:69f8f3d0a44dcdee3ce337",
+        "android_client_info": {
+          "package_name": "com.scu.mathtarea.math_tarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fHASsbdQWL-LwzXd0DfPQHICjZvrJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">478678510102</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7fHASsbdQWL-LwzXd0DfPQHICjZvrJWQ</string>
+    <string name="google_app_id" translatable="false">1:478678510102:android:eceaeea8b3e2d1ac3ce337</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7fHASsbdQWL-LwzXd0DfPQHICjZvrJWQ</string>
+    <string name="google_storage_bucket" translatable="false">mathtarea-c6f74.appspot.com</string>
+    <string name="project_id" translatable="false">mathtarea-c6f74</string>
+</resources>
